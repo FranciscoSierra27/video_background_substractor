@@ -1,0 +1,5 @@
+# Con 12 hilos "Process"
+Time elapsed for resources/secuencia1.avi with 795 frames and 12 threads is = 23.227001428604126
+total rle size: 44425760
+total frames size: 351240192
+data compression percentage saved 87.35174361822465
