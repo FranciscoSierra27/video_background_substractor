@@ -4,7 +4,7 @@ from app.controller.background_substractor import run_secuence
 
 # coorelaciones con matlab
 # "background_mean" es la variable "T"
-
+# Francisco Sierra Pérez
 
 # TODO: Cambiar Listas a Tuplas
 # TODO: Implementar hilos para generar mensaje
